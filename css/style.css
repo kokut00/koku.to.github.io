@@ -14,7 +14,7 @@ body {
 }
  
 .sidebar {
-  grid-area: sidebar;
+  grid-area: upperbar;
   background: linear-gradient(
     to right,
     rgba(200, 107, 142, 1),
